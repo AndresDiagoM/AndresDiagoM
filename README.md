@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Felipe Diago</h1>
-<h3 align="center">A Electronics And Telecommunications Engineering, is a branch of electrical engineering that focuses on designing and developing electronic technology products.</h3>
+<h3 align="center">A Electronics And Telecommunications Engineering student, is a branch of electrical engineering that focuses on designing and developing electronic technology products.</h3>
 
 - 🔭 I’m currently working on [a project with PhP](https://ausentismos1.herokuapp.com/)
 
