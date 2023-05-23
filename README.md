@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andres Felipe Diago</h1>
+<h1 align="center">Hi <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋">, I'm Andres</h1>
 <h3 align="center">A Electronics And Telecommunications Engineering, is a branch of electrical engineering that focuses on designing and developing electronic technology products.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andresdiagom&label=Profile%20views&color=0e75b6&style=flat" alt="andresdiagom" /> </p>
