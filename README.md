@@ -19,7 +19,7 @@
 <!-- ############################ -->
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
-<p style="text-align: center;">
+<p align="center">
     <a href="https://codepen.io/@andresdiagom" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@andresdiagom" height="30" width="40" />
     </a>
@@ -31,7 +31,7 @@
 <!-- ########################### -->
 <!-- LANGUAGES AND TOOLS -->
 <h3 align="left">Languages and Tools:</h3>
-<p style="text-align: center;"> 
+<p align="center"> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a> 
