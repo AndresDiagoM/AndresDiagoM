@@ -2,7 +2,12 @@
 <h3 align="center">A Electronics And Telecommunications Engineering, is a branch of electrical engineering that focuses on designing and developing electronic technology products.</h3>
 
 # 💫 About Me:
-# About Me 🌱<br><br>## 🚀 I'm currently working on<br>- Developing applications with **Node.js** and **Express**.<br><br>## 🤝 I'm looking to collaborate on<br>- **Open source projects** related to backend development, security, and cloud computing.<br><br>## 🖐 I'm looking for help with<br>- Best practices for **scalable Node.js applications**.<br>- Advanced **AWS and Serverless** architectures.<br><br>## 🌱 I'm currently learning<br>- **AWS** and cloud services.<br>- **Serverless architectures** for scalable applications.<br><br>## 💬 Ask me about<br>- **JavaScript** (ES6+), best practices, and performance optimization.<br>- **Microservices** architecture and API design.<br>- **Node.js** (Express, Fastify, NestJS).<br>- **OWASP Top 10** security vulnerabilities and mitigation strategies.<br><br>## ⚡ Fun fact<br>- I enjoy solving **security challenges** and optimizing backend performance.
+### 🚀 I'm currently working on<br>- Developing applications with **Node.js** and **Express**.<br><br>
+### 🤝 I'm looking to collaborate on<br>- **Open source projects** related to backend development, security, and cloud computing.<br><br>
+### 🖐 I'm looking for help with<br>- Best practices for **scalable Node.js applications**.<br>- Advanced **AWS and Serverless** architectures.<br><br>
+### 🌱 I'm currently learning<br>- **AWS** and cloud services.<br>- **Serverless architectures** for scalable applications.<br><br>
+### 💬 Ask me about<br>- **JavaScript** (ES6+), best practices, and performance optimization.<br>- **Microservices** architecture and API design.<br>- **Node.js** (Express, Fastify, NestJS).<br>- **OWASP Top 10** security vulnerabilities and mitigation strategies.<br><br>
+### ⚡ Fun fact<br>- I enjoy solving **security challenges** and optimizing backend performance.<br><br>
 
 
 ## 🌐 Socials:
