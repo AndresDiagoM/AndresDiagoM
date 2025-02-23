@@ -1,101 +1,24 @@
 <h1 align="center">Hi <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋">, I'm Andres</h1>
 <h3 align="center">A Electronics And Telecommunications Engineering, is a branch of electrical engineering that focuses on designing and developing electronic technology products.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andresdiagom&label=Profile%20views&color=0e75b6&style=flat" alt="andresdiagom" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresdiagom" alt="andresdiagom" /></a> </p>
-
-- 🔭 I’m currently working on [a project with Angular](https://andresdiagom.github.io/my-store/)
-
-- 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AndresDiagoM](https://github.com/AndresDiagoM)
-
-- 💬 Ask me about **laravel, javascript**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/andres-felipe-diago-matta/](https://www.linkedin.com/in/andres-felipe-diago-matta/)
+# 💫 About Me:
+# About Me 🌱<br><br>## 🚀 I'm currently working on<br>- Developing applications with **Node.js** and **Express**.<br><br>## 🤝 I'm looking to collaborate on<br>- **Open source projects** related to backend development, security, and cloud computing.<br><br>## 🖐 I'm looking for help with<br>- Best practices for **scalable Node.js applications**.<br>- Advanced **AWS and Serverless** architectures.<br><br>## 🌱 I'm currently learning<br>- **AWS** and cloud services.<br>- **Serverless architectures** for scalable applications.<br><br>## 💬 Ask me about<br>- **JavaScript** (ES6+), best practices, and performance optimization.<br>- **Microservices** architecture and API design.<br>- **Node.js** (Express, Fastify, NestJS).<br>- **OWASP Top 10** security vulnerabilities and mitigation strategies.<br><br>## ⚡ Fun fact<br>- I enjoy solving **security challenges** and optimizing backend performance.
 
 
-<!-- ############################ -->
-<!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-    <a href="https://codepen.io/@andresdiagom" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@andresdiagom" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/andres felipe diago matta" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres felipe diago matta" height="30" width="40" />
-    </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andres-felipe-diago-matta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AndresDmatta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andresdiag@unicauca.edu.co) 
 
-<!-- ########################### -->
-<!-- LANGUAGES AND TOOLS -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-    </a>  -->
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-    </a> 
-    <!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>  -->
-    <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>  -->
-    <!-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>  -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-    </a> 
-    <!-- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a> -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>  -->
-    <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>  -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndresDiagoM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndresDiagoM&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDiagoM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ########################### -->
-<!-- GITHUB STATS -->
-<h3 align="left"> GitHub Stats:</h3>
-<p align="center">
-  <!-- <a href="https://github.com/andresdiagom">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresdiagom&theme=transparent" />
-  </a> -->
-  <a href="https://github.com/andresdiagom">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresdiagom&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <!-- <a href="https://github.com/andresdiagom">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andresdiagom&theme=transparent" />
-  </a> -->
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AndresDiagoM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
