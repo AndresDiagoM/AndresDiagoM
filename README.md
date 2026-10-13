@@ -1,108 +1,101 @@
-<h1 align="center">Hi <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋">, I'm Andres</h1>
-<h3 align="center">A Electronics And Telecommunications Engineering, is a branch of electrical engineering that focuses on designing and developing electronic technology products.</h3>
+<h1 align="center">Hi <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋">, I'm Andres Diago</h1>
+<p align="center"><strong>Full-stack engineer — event-driven backends and AI systems.</strong><br/>
+TypeScript · Node.js/NestJS · Next.js · Go · Python · PostgreSQL · AWS<br/>
+Popayán, Colombia 🇨🇴 · working remotely in English and Spanish</p>
 
-# 💫 About Me:
+<p align="center">
+  <a href="https://andresdiagom.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/andres-felipe-diago-matta/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://x.com/AndresDmatta"><img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" alt="X" /></a>
+  <a href="mailto:andresdiag@unicauca.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### 🚀 I'm currently working on
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+</p>
 
-- Developing robust applications with **Node.js**, **Express**, y **NestJS**.
-- Building scalable job queues and background processing with **BullMQ** (workers, dead letter queue).
-- Integrating the **Meta API for WhatsApp Business** for messaging solutions.
-- Deploying and managing projects using **Vercel** y **Supabase**.
+## What I build
 
-### 🤝 I'm looking to collaborate on
+- **Banking microservices** at TBBC — event-driven services that integrate core banking (SOAP), the PSE payment gateway, Twilio/FCM notifications and Active Directory; JWT + OAuth2, AWS Secrets Manager, API Gateway, MongoDB under high throughput, blue-green deploys on ECS, Python/FastAPI services for AI features.
+- **AI document pipelines** — for a bookkeeping SaaS: bank statements go from S3 through LLM extraction to per-transaction categorization by four competing engines (learned rules, two RAG backends on pgvector, an LLM classifier), with a review UI and an internal trainer that feeds corrections back into the vector store.
+- **Multi-tenant SaaS** — connectHUB (The Unconnected Foundation) (Next.js + NestJS on AWS, Row-Level Security, ~4k Starlink service lines across six countries), a WhatsApp Business platform (Meta Cloud API, BullMQ/Redis, OpenAI Assistants), and a lead-management CRM with a Twilio power dialer.
+- **Open source** — Go and Python contributions to developer tooling (below).
 
-- **Open source projects** related to backend, APIs, cloud, and messaging platforms.
+## Open source
 
-### 🖐 I'm looking for help with
+| Project | What I shipped |
+|---|---|
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) — Python, 126k ★ | [#4391](https://github.com/Graphify-Labs/graphify/pull/4391): fixed the shrink guard dropping deduplicated AST-twin semantic nodes on rebuild, folded LLM node/edge field aliases, and added end-to-end regression tests with a negative control (closes #4389). |
+| [permgps/herdr-telegram-agents](https://github.com/permgps/herdr-telegram-agents) — Go | [#13](https://github.com/permgps/herdr-telegram-agents/pull/13): `transcript.CodexReader` — resolves a Codex thread's rollout file and returns the last turn's final answer instead of the terminal tail (~2k lines incl. tests). [#11](https://github.com/permgps/herdr-telegram-agents/pull/11): stopped the detached daemon from opening console windows on Windows (`CREATE_NO_WINDOW` helper + a CI guard against stray `exec.Command`). [#9](https://github.com/permgps/herdr-telegram-agents/pull/9): PowerShell installer hash fix for pwsh-launched sessions. |
 
-- Best practices for **scalable Node.js/NestJS applications**.
-- Advanced **cloud architectures** (AWS, Vercel, Supabase).
-- Integrations with **Meta/WhatsApp Business API**.
+## 💻 Stack I use daily
 
-### 🌱 I'm currently learning
+**Backend**<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
-- **Supabase** for backend as a service (BaaS).
-- Advanced features of **Vercel** for serverless deployments.
-- Deep integrations with **Meta/WhatsApp Business API**.
+**Frontend**<br/>
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![Redux](https://img.shields.io/badge/redux%20toolkit-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 
-### 💬 Ask me about
+**Data**<br/>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![BullMQ](https://img.shields.io/badge/bullmq-red?style=flat&logo=redis&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Qdrant](https://img.shields.io/badge/qdrant-DC244C?style=flat&logo=qdrant&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
-- **JavaScript** (ES6+), best practices, and performance optimization.
-- **Node.js** (Express, Fastify, NestJS), API design, and microservices.
-- **BullMQ**: job queues, workers, dead letter queue patterns.
-- **Meta/WhatsApp Business API** integrations.
-- **Vercel** and **Supabase** workflows.
-- **OWASP Top 10** security vulnerabilities and mitigation strategies.
+**Cloud & DevOps**<br/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTA4LjU5IDI2LjE0OGMtMS44NTIgMC0zLjYyMi4yMTEtNS4zMDUuNzE1LTEuNjg0LjUwNC0zLjExNyAxLjIyMy00LjM3OSAyLjE4OGExMC44MjkgMTAuODI5IDAgMCAwLTMuMDMxIDMuNDUzYy0uNzU3IDEuMzQ4LTEuMTM3IDIuOTA2LTEuMTM3IDQuNjc2IDAgMi4xODcuNzE2IDQuMjUgMi4xMDYgNi4xMDUgMS4zODYgMS44OTUgMy42NiAzLjMyNCA2LjczNCA0LjI5M2w2LjEwNiAxLjg5NWMyLjA2Mi42NzUgMy40OTYgMS4zOTEgNC4yNTQgMi4xOTEuNzU3LjgwMSAxLjEzNiAxLjc2NSAxLjEzNiAyLjk0NSAwIDEuNzI2LS43NTggMy4wNzQtMi4xOTEgNC0xLjQzLjkyNS0zLjQ5MiAxLjM5MS02LjE0NSAxLjM5MS0xLjY4NyAwLTMuMzI4LS4xNjgtNS4wMTEtLjUwNGEyMy4xMDIgMjMuMTAyIDAgMCAxLTQuNjMzLTEuNDc2Yy0uNDIxLS4xNjgtLjgwMS0uMzM2LTEuMDUxLS40MThhMi4zNTcgMi4zNTcgMCAwIDAtLjc1OC0uMTNjLS42MzQgMC0uOTY5LjQyMy0uOTY5IDEuMzA1djIuMTQ5YTIuOTE5IDIuOTE5IDAgMCAwIC4yNTQgMS4xOGMuMTY4LjM4LjYyOS44IDEuMzA1IDEuMTggMS4wOTQuNjI4IDIuNzM0IDEuMTc5IDQuODQgMS42ODMgMi4xMDUuNTA0IDQuMjk3Ljc1OCA2LjQ4NC43NTggMi4xNSAwIDQuMTI5LS4yOTcgNi4wMjQtLjg4MyAxLjgwOC0uNTUxIDMuMzY3LTEuMzA5IDQuNjcyLTIuMzYgMS4zMDQtMS4wMSAyLjMxNi0yLjI3MyAzLjA3NC0zLjcwNy43MTQtMS40MjkgMS4wOTQtMy4wNyAxLjA5NC00Ljg4MiAwLTIuMTg4LS42MzMtNC4xNjgtMS45MzgtNS44OTUtMS4zMDQtMS43MjctMy40OTEtMy4wNzQtNi41MjMtNC4wNDNsLTUuOTgtMS44OTVjLTIuMjMtLjcxMy0zLjc5LTEuNTE2LTQuNjM0LTIuMzE2LS44NC0uNzk3LTEuMjYxLTEuODA4LTEuMjYxLTIuOTg4IDAtMS43MjYuNjcxLTIuOTUgMS45OC0zLjc0NiAxLjMwNS0uODAxIDMuMTk5LTEuMTggNS41OTgtMS4xOCAyLjk4OCAwIDUuNjgzLjU0NyA4LjA4NiAxLjY0LjcxNC4zMzcgMS4yNjEuNTA4IDEuNTk3LjUwOC42MzMgMCAuOTY5LS40NjMuOTY5LTEuMzQ3di0xLjk4YzAtLjU5LS4xMjUtMS4wNTEtLjM3OS0xLjM5MS0uMjUtLjM3OC0uNjcyLS43MTUtMS4yNjItMS4wNTEtLjQyMi0uMjU0LTEuMDExLS41MDQtMS43Ny0uNzU4YTMyLjUyOCAzMi41MjggMCAwIDAtMi4zOTgtLjY3NmMtLjg4Ni0uMTY4LTEuNzY5LS4zMzYtMi43MzgtLjQ2YTIxLjM0NyAyMS4zNDcgMCAwIDAtMi44Mi0uMTY5em0tODYuODIyLjA4MmMtMi4zMTYgMC00LjUwOC4yNTQtNi41Ny44MDEtMi4wNjMuNTA1LTMuODMxIDEuMTM3LTUuMzAzIDEuODk1LS41OS4yOTctLjk3LjU5LTEuMTguODgzLS4yMTEuMjk2LS4yOTMuOC0uMjkzIDEuNDc2djIuMDYzYzAgLjg4Mi4yOTMgMS4zMDQuODgzIDEuMzA0LjE2OCAwIC4zNzgtLjA0My42NzQtLjEyNS4yOTMtLjA4Ni43OTYtLjI1NCAxLjQ3Mi0uNTQ3YTMzLjQxNiAzMy40MTYgMCAwIDEgNC41NDctMS40MzNBMTkuMTc2IDE5LjE3NiAwIDAgMSAyMC41NDcgMzJjMy4yNDIgMCA1LjUxMy42MzMgNi44NjMgMS45MzggMS4zMDQgMS4zMDMgMS45OCAzLjUzNCAxLjk4IDYuNzM0djMuMDc0Yy0xLjY4My0uMzc5LTMuMjgzLS43MTUtNC44NDMtLjkyNi0xLjU1OC0uMjEtMy4wMzEtLjMzNi00LjQ2MS0uMzM2LTQuMzQgMC03Ljc1IDEuMDk0LTEwLjMxNiAzLjI4Ni0yLjU3MSAyLjE4Ny0zLjgzMiA1LjA5My0zLjgzMiA4LjY3MSAwIDMuMzY4IDEuMDUgNi4wNjMgMy4xMTMgOC4wODYgMi4wNjYgMi4wMiA0Ljg4NyAzLjAzMiA4LjQyMiAzLjAzMiA0Ljk3IDAgOS4wOTctMS45MzggMTIuMzc5LTUuODEzYTM0LjE1MyAzNC4xNTMgMCAwIDAgMS4zMDQgMi40ODQgMTMuMjggMTMuMjggMCAwIDAgMS41MTYgMS45OGMuNDIyLjM4Ljg0NC41OSAxLjI2Ni41OS4zMzQgMCAuNzE0LS4xMjggMS4wOTMtLjM3OGwyLjY1My0xLjc3Yy41NDYtLjQyLjgtLjg0My44LTEuMjYxYTEuODYgMS44NiAwIDAgMC0uMjkzLS45NyAyMi40NjkgMjIuNDY5IDAgMCAxLTEuMzQ3LTMuMDNjLS4yOTctLjkyNS0uNDY1LTIuMTktLjQ2NS0zLjc1aC0uMDg2VjQwYzAtNC42MzMtMS4xNzYtOC4wODYtMy40OTItMTAuMzYtMi4zNi0yLjI3My02LjAyNS0zLjQxLTExLjAzMy0zLjQxem0xOS41OCAxLjAxMmMtLjY3NiAwLTEuMDEyLjM3OS0xLjAxMiAxLjA1MSAwIC4yOTcuMTI5Ljg0NC4zNzkgMS42ODdsOS44OTQgMzIuNTQ3Yy4yNTQuOC41NDcgMS4zODcuODg3IDEuNjQxLjMzNi4yOTcuODQuNDIyIDEuNTk4LjQyMmgzLjYyYy43NTkgMCAxLjM0Ny0uMTI1IDEuNjg0LS40MjIuMzQtLjI5My41OTEtLjg0LjgwMS0xLjY4NGw2LjQ4NS0yNy4xMTcgNi41MjcgMjcuMTZjLjE2OC44NC40NiAxLjM4Ny44IDEuNjg0LjMzNy4yOTIuODgzLjQyMiAxLjY4NC40MjJoMy42MjFjLjcxNSAwIDEuMjYyLS4xNjcgMS41OTgtLjQyMi4zNC0uMjUzLjYzMy0uOC44ODctMS42NEw5MC45NDkgMzAuMDJjLjE2OC0uNDYuMjUtLjc5Ny4yOTMtMS4wNTEuMDQzLS4yNTQuMDg2LS40NjYuMDg2LS42NzYgMC0uNzE1LS4zNzktMS4wNS0xLjA1NS0xLjA1SDg2LjM2Yy0uNzU3IDAtMS4zMDguMTY2LTEuNjQ0LjQyMS0uMjkzLjI1LS41OS44LS44NCAxLjY0TDc2LjU5IDU3LjUxN2wtNi42NTMtMjguMjExYy0uMTY2LS44LS40NjQtMS4zOS0uOC0xLjY0LS4zMzYtLjI5OC0uODg0LS40MjMtMS42ODQtLjQyM2gtMy4zNjdjLS43NTggMC0xLjM0OC4xNjctMS42ODguNDIyLS4zMzUuMjUtLjU4OC44LS43OTYgMS42NGwtNi41NyAyNy44NzYtNy4wNzUtMjcuODc1Yy0uMjUtLjgtLjUwNC0xLjM5LS44NC0xLjY0LS4yOTctLjI5OC0uODQ0LS40MjMtMS42NDQtLjQyM2gtNC4xMjV6TTIxLjY0IDQ3LjQ5NmEzMS44MTYgMzEuODE2IDAgMCAxIDMuOTYuMjUgMzQuNDAxIDM0LjQwMSAwIDAgMSAzLjg3Mi43MTl2MS43NjVjMCAxLjQzNS0uMTY4IDIuNjUzLS40MjIgMy42NjUtLjI1IDEuMDEtLjc1OCAxLjg5NS0xLjQzIDIuNjk1LTEuMTM3IDEuMjYyLTIuNDg0IDIuMTg3LTQgMi42OTUtMS41MTYuNTA0LTIuOTQ5Ljc1OC00LjMzNi43NTgtMS45MzcgMC0zLjQxLS41MDgtNC40MjItMS41NTktMS4wNTQtMS4wMS0xLjU1OC0yLjQ4NC0xLjU1OC00LjQ2NCAwLTIuMTA2LjY3NS0zLjcwNCAyLjA2Mi00Ljg0IDEuMzkxLTEuMTM3IDMuNDU0LTEuNjg0IDYuMjc0LTEuNjg0ek0xMTggNzMuMzQ4Yy00LjQzMi4wNjMtOS42NjQgMS4wNTItMTMuNjIxIDMuODMyLTEuMjIzLjg4My0xLjAxMiAyLjA2Mi4zMzYgMS44OTQgNC41MDgtLjU0NyAxNC40NC0xLjcyNiAxNi4yMS41NDcgMS43NyAyLjIzLTEuOTc2IDExLjYyLTMuNjYzIDE1Ljc5LS41MDQgMS4yNi41OSAxLjc2OSAxLjcyNi44IDcuNDEtNi4yMzEgOS4zNDgtMTkuMjQyIDcuODMyLTIxLjEzNy0uNzU3LS45MjUtNC4zODgtMS43OS04LjgyLTEuNzI2ek0xLjYzIDc1Ljg1OWMtLjkyNi4xMTYtMS4zNDcgMS4yMzYtLjM2OCAyLjEyMSAxNi41MDggMTQuOTAyIDM4LjM1OSAyMy44NzIgNjIuNjEzIDIzLjg3MiAxNy4zMDUgMCAzNy40My01LjQzIDUxLjI4MS0xNS42NiAyLjI3My0xLjY4OS4yOTgtNC4yNTQtMi4wMi0zLjIwNC0xNS41MzMgNi41Ny0zMi40MjEgOS43Ny00Ny43ODggOS43Ny0yMi43NzggMC00NC44LTYuMjczLTYyLjY1My0xNi42MzMtLjM5LS4yMzEtLjc1NS0uMzA0LTEuMDY0LS4yNjZ6Ii8%2BPC9zdmc%2B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)<br/>
+<sub>AWS: ECS, EC2, Lambda, S3, SQS/SNS, Bedrock, Secrets Manager</sub>
 
-### ⚡ Fun fact
+**AI**<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIyLjI4MiA5LjgyMWE2IDYgMCAwIDAtLjUxNi00LjkxYTYuMDUgNi4wNSAwIDAgMC02LjUxLTIuOUE2LjA2NSA2LjA2NSAwIDAgMCA0Ljk4MSA0LjE4YTYgNiAwIDAgMC0zLjk5OCAyLjlhNi4wNSA2LjA1IDAgMCAwIC43NDMgNy4wOTdhNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMWE2LjA1IDYuMDUgMCAwIDAgNi41MTUgMi45QTYgNiAwIDAgMCAxMy4yNiAyNGE2LjA2IDYuMDYgMCAwIDAgNS43NzItNC4yMDZhNiA2IDAgMCAwIDMuOTk3LTIuOWE2LjA2IDYuMDYgMCAwIDAtLjc0Ny03LjA3M00xMy4yNiAyMi40M2E0LjQ4IDQuNDggMCAwIDEtMi44NzYtMS4wNGwuMTQxLS4wODFsNC43NzktMi43NThhLjguOCAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3LjA3IDAgMCAxIC4wMzguMDUydjUuNTgzYTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0IDQuNDk0TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODVsNC43ODMgMi43NTlhLjc3Ljc3IDAgMCAwIC43OCAwbDUuODQzLTMuMzY5djIuMzMyYS4wOC4wOCAwIDAgMS0uMDMzLjA2Mkw5Ljc0IDE5Ljk1YTQuNSA0LjUgMCAwIDEtNi4xNC0xLjY0Nk0yLjM0IDcuODk2YTQuNSA0LjUgMCAwIDEgMi4zNjYtMS45NzNWMTEuNmEuNzcuNzcgMCAwIDAgLjM4OC42NzdsNS44MTUgMy4zNTRsLTIuMDIgMS4xNjhhLjA4LjA4IDAgMCAxLS4wNzEgMGwtNC44My0yLjc4NkE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0IDcuODcyem0xNi41OTcgMy44NTVsLTUuODMzLTMuMzg3TDE1LjExOSA3LjJhLjA4LjA4IDAgMCAxIC4wNzEgMGw0LjgzIDIuNzkxYTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDA3LS42NjdtMi4wMS0zLjAyM2wtLjE0MS0uMDg1bC00Ljc3NC0yLjc4MmEuNzguNzggMCAwIDAtLjc4NSAwTDkuNDA5IDkuMjNWNi44OTdhLjA3LjA3IDAgMCAxIC4wMjgtLjA2MWw0LjgzLTIuNzg3YTQuNSA0LjUgMCAwIDEgNi42OCA0LjY2em0tMTIuNjQgNC4xMzVsLTIuMDItMS4xNjRhLjA4LjA4IDAgMCAxLS4wMzgtLjA1N1Y2LjA3NWE0LjUgNC41IDAgMCAxIDcuMzc1LTMuNDUzbC0uMTQyLjA4TDguNzA0IDUuNDZhLjguOCAwIDAgMC0uMzkzLjY4MXptMS4wOTctMi4zNjVsMi42MDItMS41bDIuNjA3IDEuNXYyLjk5OWwtMi41OTcgMS41bC0yLjYwNy0xLjVaIi8%2BPC9zdmc%2B) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![RAG](https://img.shields.io/badge/RAG%20pipelines-4B5563?style=flat)
 
-- I enjoy building messaging bots, solving **security challenges**, and optimizing backend performance.
+**Integrations**<br/>
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNNDggOTIuMzA5YzE2LjQxIDAgMTYuNDEtMjQuNjE4IDAtMjQuNjE4UzMxLjU5IDkyLjMxIDQ4IDkyLjMxWm0wLTMyYzE2LjQxIDAgMTYuNDEtMjQuNjE4IDAtMjQuNjE4UzMxLjU5IDYwLjMxIDQ4IDYwLjMxWm0zMiAzMmMxNi40MSAwIDE2LjQxLTI0LjYxOCAwLTI0LjYxOFM2My41OSA5Mi4zMSA4MCA5Mi4zMVptMC0zMmMxNi40MSAwIDE2LjQxLTI0LjYxOCAwLTI0LjYxOFM2My41OSA2MC4zMSA4MCA2MC4zMVpNNjQgMGMzNC42NjQgMCA2NCAyOS4zMzYgNjQgNjRzLTI5LjMzNiA2NC02NCA2NFMwIDk4LjY2NCAwIDY0IDI5LjMzNiAwIDY0IDBabTAgMTcuMjNjLTI1Ljc1OCAwLTQ2Ljc3IDIwLjI4Ni00Ni43NyA0NS45MSAwIDI1LjYyNiAyMS4wMTIgNDcuNjMgNDYuNzcgNDcuNjMgMjUuNzU4IDAgNDYuNzctMjIuMDA0IDQ2Ljc3LTQ3LjYzIDAtMjUuNjI0LTIxLjAxMi00NS45MS00Ni43Ny00NS45MVptMCAwIi8%2BPC9zdmc%2B) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) ![Plaid](https://img.shields.io/badge/Plaid-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgdHJhbnNmb3JtPSJyb3RhdGUoNDUgMTIgMTIpIj48cGF0aCBkPSJNNCA0aDR2NEg0ek0xMCA0aDR2NGgtNHpNMTYgNGg0djRoLTR6TTQgMTBoNHY0SDR6TTEwIDEwaDR2NGgtNHpNMTYgMTBoNHY0aC00ek00IDE2aDR2NEg0ek0xMCAxNmg0djRoLTR6TTE2IDE2aDR2NGgtNHoiLz48L2c%2BPC9zdmc%2B) ![Meta](https://img.shields.io/badge/meta%20api-1877F2?style=flat&logo=meta&logoColor=white) ![WhatsApp](https://img.shields.io/badge/whatsapp%20cloud%20api-25D366?style=flat&logo=whatsapp&logoColor=white) ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTS44IDI0aDEzLjZjLjg4IDAgMS42LS43MiAxLjYtMS42di00LjhjMC0uODgtLjcyLTEuNi0xLjYtMS42SDkuNmMtLjg4IDAtMS42LS43Mi0xLjYtMS42VjkuNkM4IDguNzIgNy4yOCA4IDYuNCA4SDEuNkMuNzIgOCAwIDguNzIgMCA5LjZ2MTMuNmMwIC40NC4zNi44LjguOE0yMy4yIDBIOS42QzguNzIgMCA4IC43MiA4IDEuNnY0LjhDOCA3LjI4IDguNzIgOCA5LjYgOGg0LjhjLjg4IDAgMS42LjcyIDEuNiAxLjZ2NC44YzAgLjg4LjcyIDEuNiAxLjYgMS42aDQuOGMuODggMCAxLjYtLjcyIDEuNi0xLjZWLjhjMC0uNDQtLjM2LS44LS44LS44Ii8%2BPC9zdmc%2B)
 
-## 🌐 Socials:
+**Testing**<br/>
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtNzIuMDg2IDg2LjEzMi0uNTk0LS4xNDRjLTEzLjEyNS0zLjg0NC0xNS4xNS0xNC4zMTEtMTUuMTUtMTQuMzExbDE4LjE4MiA1LjA4Mkw4NC4xNSAzOS43N2wtLjExNi0uMDMxYy0xMS44MDctMy4xNjItMTkuNjQtOC42OTItMjIuNzQ0LTExLjI5Mi00LjQtMy42ODUtNi4zMzUtNi4yNDYtOC4yNC0yLjM3Mi0xLjY4MiAzLjQxNy0zLjgzNiA4Ljk3Ny01LjkyIDE2Ljc2Mi00LjUxNiAxNi44NTctNy44OTIgNTIuNDI5IDIwLjAyNyA1OS45MTRsLjU3Mi4xMjl6bS0xOC44MDctMzAuODVzNC40LTYuODQzIDExLjg2Mi00LjcyMmM3LjQ2NyAyLjEyMSA4LjA0NSAxMC4zNzYgOC4wNDUgMTAuMzc2em0tOC41MTcgMjMuNDUxTDMxLjc4NyA4Mi40MXMxLjQxLTguMDI5IDEwLjk2OC0xMS4yMTJsLTcuMzQ3LTI3LjU3My0uNjM1LjE5M2MtOS4xMTEgMi40NTctMTYuNDc2IDEuODA1LTE5LjU1IDEuMjczLTQuMzU3LS43NTEtNi42MzYtMS43MDgtNi40MjIgMS42MDYuMTg2IDIuOTIzLjg4MiA3LjQ1NCAyLjQ3NyAxMy40NCAzLjQ1IDEyLjk2MSAxNC44NTQgMzcuOTM3IDM2LjQwNSAzMi4xMzJsLjYzNS0uMTk5LTMuNTU1LTEzLjMzN1pNMTkuNTQ4IDYwLjMxNWwxNS4zMTYtNC4wMzVzLS40NDYgNS44OTItNi4xODggNy40MDVjLTUuNzQzIDEuNTEyLTkuMTI4LTMuMzcxLTkuMTI4LTMuMzcxem04OS44MjQtMTguOTc5Yy0zLjk4MS42OTgtMTMuNTMyIDEuNTY3LTI1LjMzNi0xLjU5Ni0xMS44MDctMy4xNjItMTkuNjQtOC42OTItMjIuNzQ0LTExLjI5Mi00LjQtMy42ODUtNi4zMzUtNi4yNDYtOC4yNC0yLjM3Mi0xLjY4NCAzLjQxNy0zLjgzNyA4Ljk3Ny01LjkyMSAxNi43NjItNC41MTYgMTYuODU3LTcuODkyIDUyLjQyOSAyMC4wMjcgNTkuOTE0IDI3LjkxMiA3LjQ3OSA0Mi43NzItMjUuMDE3IDQ3LjI4OS00MS44NzUgMi4wODQtNy43ODMgMi45OTgtMTMuNjc2IDMuMjUtMTcuNDc2LjI4Ny00LjMwNS0yLjY3LTMuMDU1LTguMzI0LTIuMDY0ek01My4yOCA1NS4yODJzNC40LTYuODQzIDExLjg2Mi00LjcyMmM3LjQ2NyAyLjEyMSA4LjA0NSAxMC4zNzYgOC4wNDUgMTAuMzc2em0xOC4yMTUgMzAuNzA2Yy0xMy4xMjUtMy44NDUtMTUuMTUtMTQuMzExLTE1LjE1LTE0LjMxMWwzNS4yNTkgOS44NThjMC0uMDAyLTcuMTE3IDguMjUtMjAuMTA5IDQuNDUzem0xMi40NjYtMjEuNTFzNC4zOTQtNi44MzggMTEuODU0LTQuNzExYzcuNDYgMi4xMjQgOC4wNDggMTAuMzc5IDguMDQ4IDEwLjM3OXpNNTEuNzMyIDgzLjkzNXYtNy4xNzlsLTE5Ljk0NSA1LjY1NnMxLjQ3NC04LjU2MyAxMS44NzYtMTEuNTE0YzMuMTU1LS44OTQgNS44NDYtLjg4OCA4LjA2OS0uNDU5VjQwLjk5NWg5Ljk4N2MtMS4wODctMy4zNi0yLjEzOS01Ljk0Ny0zLjAyMy03Ljc0NC0xLjQ2MS0yLjk3NS0yLjk2LTEuMDAzLTYuMzYxIDEuODQyLTIuMzk2IDIuMDAxLTguNDUgNi4yNzEtMTcuNTYxIDguNzI2LTkuMTExIDIuNDU3LTE2LjQ3NiAxLjgwNS0xOS41NSAxLjI3My00LjM1Ny0uNzUyLTYuNjM2LTEuNzA4LTYuNDIyIDEuNjA1LjE4NiAyLjkyMy44ODIgNy40NTUgMi40NzcgMTMuNDQgMy40NSAxMi45NjIgMTQuODU0IDM3LjkzNyAzNi40MDUgMzIuMTMyIDUuNjI5LTEuNTE3IDkuNjAzLTQuNTE1IDEyLjM1Ny04LjMzNmgtOC4zMDlabS0zMi4xODUtMjMuNjIgMTUuMzE2LTQuMDM1cy0uNDQ2IDUuODkyLTYuMTg4IDcuNDA1Yy01Ljc0MyAxLjUxMi05LjEyOC0zLjM3MS05LjEyOC0zLjM3MXoiLz48L3N2Zz4%3D)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andres-felipe-diago-matta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AndresDmatta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andresdiag@unicauca.edu.co)
+## Now
 
-# 💻 Tech Stack:
+- Senior Backend Developer at TBBC; Backend Engineer at Simplixity (remote).
+- Open to freelance work on backend systems and AI integrations — [Upwork](UPWORK_PROFILE_URL) or email.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![BullMQ](https://img.shields.io/badge/bullmq-red?style=flat&logo=redis&logoColor=white) ![Meta](https://img.shields.io/badge/meta%20api-1877F2?style=flat&logo=meta&logoColor=white) ![WhatsApp](https://img.shields.io/badge/whatsapp%20business-25D366?style=flat&logo=whatsapp&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+## 📊 GitHub
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=AndresDiagoM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndresDiagoM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDiagoM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AndresDiagoM&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- <br clear="both"> -->
-
-<!-- <img src="https://raw.githubusercontent.com/AndresDiagoM/AndresDiagoM/output/snake.svg" alt="Snake animation" /> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresDiagoM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDiagoM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndresDiagoM/AndresDiagoM/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndresDiagoM/AndresDiagoM/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AndresDiagoM/AndresDiagoM/output/github-snake.svg" />
 </picture>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
